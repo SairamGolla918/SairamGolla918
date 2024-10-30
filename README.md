@@ -1,8 +1,10 @@
 ## Hi there 👋, I'm Sairam Golla
+[![](https://visitcount.itsvg.in/api?id=SairamGolla918&icon=10&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-👨🏻‍💻 I’m currently working on Java Full Stack Development.<br>🧑‍🤝‍🧑 I’m looking to collaborate on Aspiring Techies.<br>🤝 I’m looking for help with Industry Mentors.<br>🌱 I’m currently learning Spring Boot | React.<br>💭 Ask me about Java.<br>📃Check my Resume 
-<br>😁 Fun fact I am Curious.
+👨🏻‍💻 I’m currently working on Java Full Stack Development.<br>🧑‍🤝‍🧑 I’m looking to collaborate on Aspiring Techies.<br>🤝 I’m looking for help with Industry Mentors.<br>🌱 I’m currently learning Spring Boot | React.<br>💭 Ask me about Java.<br>📃Check my Resume <br>- 📫 How to reach me **gollasairam918@gmail.com**
+<br>😁 Fun fact I am Crazy Curious.
+
 
 
 ## 🌐 Socials:
@@ -25,6 +27,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SairamGolla918&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SairamGolla918&icon=10&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
